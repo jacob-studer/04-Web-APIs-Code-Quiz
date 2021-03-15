@@ -1,6 +1,6 @@
 //selects the h1 wth question id from html
 var question = document.querySelector('#question');
-//selects all divs with class choice-text and makes them an array
+//selects all divs with class answer-text and makes them an array
 var answers = Array.from(document.querySelectorAll('.answer-text'));
 var number1 = document.querySelector('#number1')
 var number2 = document.querySelector('#number2')
@@ -109,7 +109,7 @@ function getNextQuestion() {
     var answer4 = document.getElementById('answer4');
     answer4.innerText = currentQuestion.answer4
 
-    //Taking the asked question out of the availableQuestions array. (Where to start, how many to splice)
+    //Taking the asked question out of the questionsLeft array. (Where to start, how many to splice)
     questionsLeft.splice(randomQuestion, 1)
 }
 

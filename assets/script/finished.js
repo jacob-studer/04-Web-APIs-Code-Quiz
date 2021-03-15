@@ -23,7 +23,7 @@ username.addEventListener('keyup', function() {
     saveBtn.disabled = !username.value
 })
 
-//creates function with parameter of event
+//create saveScore function
 function saveScore(e) {
     e.preventDefault()
 
