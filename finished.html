@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>finish screen</title>
+    <link rel="stylesheet" href="assets/style/finished.css">
+
+</head>
+<body>
+    <main>
+    <div>
+        <div>
+            <h1>Score:</h1>
+            <h2 id="endScore">0</h2>
+            <form>
+                <h2 id="end-text">Enter your name below to save your score!</h2>
+                <input type="text" name="name" id="username" placeholder="Whats your name?">
+                <button class="btn" id="saveBtn" type="submit" onclick="saveScore(event)" disabled>Save</button>
+            </form>
+            <a href="quiz.html" class="btn">Quiz Again</a>
+            <a href="index.html" class="btn">Start Menu</a>
+        </div>
+    </div>
+    </main>
+    <script src="assets/script/finished.js"></script>
+</body>
+</html>

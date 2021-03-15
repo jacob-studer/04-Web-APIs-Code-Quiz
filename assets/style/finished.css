@@ -1,0 +1,26 @@
+body {
+    margin: 20%;
+    font-family: 'Bai Jamjuree', sans-serif;
+    font-weight: 300;
+    background-color: black;
+    color: white;
+}
+
+main {
+    background-color: #336699;
+    padding: 10%;
+    border-radius: 10px;
+}
+
+.btn {
+    border: solid 2px #0080ff;
+    border-radius: 4px;
+    text-decoration: none;
+    background-color: white;
+    padding: 2px;
+    color: black;
+}
+
+input {
+    margin: 5% 1% 5% 0%;
+}
