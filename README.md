@@ -42,8 +42,11 @@ THEN I can save my initials and my score
 ```
 
 ## Screenshots
-![screenshot-1](https://raw.githubusercontent.com/jacob-studer/03-JavaScript-Password-Generator/main/assets/screenshot/Screenshot%201.PNG)
+![screenshot-1](https://raw.githubusercontent.com/jacob-studer/04.Web.APIs.Code.Quiz/main/assets/images/Screenshot%201.PNG)
+![screenshot-2](https://raw.githubusercontent.com/jacob-studer/04.Web.APIs.Code.Quiz/main/assets/images/Screenshot%202.PNG)
+![screenshot-3](https://raw.githubusercontent.com/jacob-studer/04.Web.APIs.Code.Quiz/main/assets/images/Screenshot%203.PNG)
+![screenshot-4](https://raw.githubusercontent.com/jacob-studer/04.Web.APIs.Code.Quiz/main/assets/images/Screenshot%204.PNG)
 
 ## Links
-https://github.com/jacob-studer/03-JavaScript-Password-Generator
-https://jacob-studer.github.io/03-JavaScript-Password-Generator/
+https://github.com/jacob-studer/04.Web.APIs.Code.Quiz
+https://jacob-studer.github.io/04.Web.APIs.Code.Quiz/
